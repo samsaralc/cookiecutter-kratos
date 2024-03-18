@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GoORMHelperCache">
+    <option name="schemaMapping">
+      <map>
+        <entry key="BirdCameraVideoClip">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/../../Jiusheng/bird-ecology/app/model/po/bird_camera_video_clips.gen.go" />
+              <option value="file://$PROJECT_DIR$/../../Jiusheng/bird-ecology/app/model/query/BirdCameraVideoClip.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="BirdCameraVideoClipRepo">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/../../Jiusheng/bird-ecology/app/bird-ai-service/internal/data/bird_camera_video_clips.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="BirdCameraVideoClipService">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/app/internal/service/{{cookiecutter.file_name}}.go" />
+              <option value="file://$PROJECT_DIR$/../../Jiusheng/bird-ecology/app/bird-ai-service/internal/service/bird_camera_video_clips.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="BirdCameraVideoClipUseCase">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/app/internal/biz/{{cookiecutter.file_name}}.go" />
+              <option value="file://$PROJECT_DIR$/../../Jiusheng/bird-ecology/app/bird-ai-service/internal/biz/bird_camera_video_clips.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Bootstrap">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/app/internal/conf/conf.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Data">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/app/internal/conf/conf.pb.go" />
+              <option value="file://$PROJECT_DIR$/app/internal/data/data.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Data_Database">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/app/internal/conf/conf.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Data_Redis">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/app/internal/conf/conf.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Info">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/../../Jiusheng/bird-ecology/app/model/page/model.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Model">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/../../Jiusheng/bird-ecology/app/model/page/model.go" />
+              <option value="file://$PROJECT_DIR$/../../Jiusheng/bird-ecology/app/model/page/page.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Page">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/../../Jiusheng/YW/common/utils/pageutil/pageutil.go" />
+              <option value="file://$PROJECT_DIR$/../../Jiusheng/bird-ecology/app/model/page/page.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="PageInfo">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/../../Jiusheng/bird-ecology/app/model/page/page.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="PageQuery">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/../../Jiusheng/bird-ecology/app/model/page/page.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Server">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/app/internal/conf/conf.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Server_GRPC">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/app/internal/conf/conf.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Server_HTTP">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/app/internal/conf/conf.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="x">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/app/internal/conf/conf.pb.go" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="scannedPathMapping">
+      <map>
+        <entry key="file://$PROJECT_DIR$/app/cmd/server/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1710574182050" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/app/cmd/server/wire.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1710574182050" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/app/cmd/server/wire_gen.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1710574182050" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/app/internal/biz/biz.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1710574182052" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/app/internal/biz/{{cookiecutter.file_name}}.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1710769501921" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/app/internal/conf/conf.pb.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1710574182053" />
+              <option name="schema">
+                <list>
+                  <option value="Bootstrap" />
+                  <option value="Server" />
+                  <option value="Data" />
+                  <option value="Server_HTTP" />
+                  <option value="Server_GRPC" />
+                  <option value="Data_Database" />
+                  <option value="Data_Redis" />
+                  <option value="x" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/app/internal/data/data.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1710574182053" />
+              <option name="schema">
+                <list>
+                  <option value="Data" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/app/internal/data/{{cookiecutter.file_name}}.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1710769501918" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/app/internal/server/grpc.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1710574182054" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/app/internal/server/http.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1710574182054" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/app/internal/server/server.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1710574182054" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/app/internal/service/{{cookiecutter.file_name}}.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1710769501913" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/../../Jiusheng/YW/common/utils/pageutil/pageutil.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1710756488653" />
+              <option name="schema">
+                <list>
+                  <option value="Page" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/../../Jiusheng/bird-ecology/app/bird-ai-service/internal/biz/bird_camera_video_clips.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1710766900954" />
+              <option name="schema">
+                <list>
+                  <option value="BirdCameraVideoClipUseCase" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/../../Jiusheng/bird-ecology/app/bird-ai-service/internal/data/bird_camera_video_clips.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1710766900950" />
+              <option name="schema">
+                <list>
+                  <option value="BirdCameraVideoClipRepo" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/../../Jiusheng/bird-ecology/app/bird-ai-service/internal/service/bird_camera_video_clips.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1710768584802" />
+              <option name="schema">
+                <list>
+                  <option value="BirdCameraVideoClipService" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/../../Jiusheng/bird-ecology/app/model/page/model.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1710768427069" />
+              <option name="schema">
+                <list>
+                  <option value="Info" />
+                  <option value="Model" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/../../Jiusheng/bird-ecology/app/model/page/page.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1710764915245" />
+              <option name="schema">
+                <list>
+                  <option value="PageInfo" />
+                  <option value="Model" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/../../Jiusheng/bird-ecology/app/model/po/bird_camera_video_clips.gen.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1710765830522" />
+              <option name="schema">
+                <list>
+                  <option value="BirdCameraVideoClip" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/../../Jiusheng/bird-ecology/app/model/query/BirdCameraVideoClip.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1710756743575" />
+              <option name="schema">
+                <list>
+                  <option value="BirdCameraVideoClip" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="tableStructMapping">
+      <map>
+        <entry key="bird_camera_video_clip" value="BirdCameraVideoClip" />
+        <entry key="bird_camera_video_clip_repo" value="BirdCameraVideoClipRepo" />
+        <entry key="bird_camera_video_clip_service" value="BirdCameraVideoClipService" />
+        <entry key="bird_camera_video_clip_use_case" value="BirdCameraVideoClipUseCase" />
+        <entry key="bootstrap" value="Bootstrap" />
+        <entry key="data" value="Data" />
+        <entry key="data__database" value="Data_Database" />
+        <entry key="data__redis" value="Data_Redis" />
+        <entry key="info" value="Info" />
+        <entry key="model" value="Model" />
+        <entry key="page" value="Page" />
+        <entry key="page_info" value="PageInfo" />
+        <entry key="page_query" value="PageQuery" />
+        <entry key="server" value="Server" />
+        <entry key="server_grpc" value="Server_GRPC" />
+        <entry key="server_http" value="Server_HTTP" />
+        <entry key="x" value="x" />
+      </map>
+    </option>
+    <option name="lastTimeChecked" value="1710752830162" />
+  </component>
+</project>
